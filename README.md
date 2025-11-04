@@ -1,4 +1,5 @@
-# DPR📊 Power BI Dashboard: DPR (Daily Production Report)
+📊 Power BI Dashboard: DPR (Daily Production Report)
+
 📌 Overview
 This Power BI Dashboard provides a Daily Production Report (DPR) along with insights into wastage, production changes, and shipment performance across platforms.
 
